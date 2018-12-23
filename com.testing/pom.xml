@@ -13,6 +13,11 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  <plugins>
+    <plugin>
+      q2
+    </plugin>
+  </plugins>
 
   <dependencies>
     <dependency>
